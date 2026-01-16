@@ -71,9 +71,8 @@ The primary objectives are:
 ---
 
 ## 📂 Repository Structure
-.
-├── FoAI_A2_data.csv
-├── salary_prediction.ipynb
+├── FoAI_A2_data.csv <br> 
+├── salary_prediction.ipynb <br>
 └── README.md
 
 
